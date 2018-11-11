@@ -1,0 +1,9 @@
+name: bbb
+version: 1.0
+author : grandoz
+main: fr.grandoz.bbb.main
+commands:
+  shop:
+    description: afken
+    permission: java.use
+ 
